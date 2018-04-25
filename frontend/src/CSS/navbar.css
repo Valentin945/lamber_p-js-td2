@@ -1,0 +1,21 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
+  height: 30px;
+}
+
+.navbar div {
+  line-height: 2;
+  width: 100px;
+}
+
+.navbar div span {
+  cursor: pointer;
+}

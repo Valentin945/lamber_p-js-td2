@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <button
+      className="custom-button"
+      onClick={[Function]}
+    >
+      reload
+    </button>
+  </div>
+</div>
+`;
